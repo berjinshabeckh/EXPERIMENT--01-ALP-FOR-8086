@@ -1,7 +1,7 @@
 # EXPERIMENT 01 ALP FOR 8086
-Name : ONTEDDU SIRISHA
+Name : H.Berjin Shabeck
 
-Ref no : 212222230103
+Ref no : 212222240018
 
 Date of experiment :
 
